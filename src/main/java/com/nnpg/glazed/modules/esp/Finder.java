@@ -1,6 +1,6 @@
-package com.larp.debug.modules;
+package com.nnpg.glazed.modules.esp;
 
-import com.larp.debug.AddonTemplate;
+import com.nnpg.glazed.GlazedAddon;
 import java.lang.reflect.Method;
 import java.util.Collections;
 import java.util.Map;
